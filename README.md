@@ -27,7 +27,7 @@ A help can be accessed by typing "python $HOPMA_PATH/hopma.py --help".
 
 ### Usage notes:  
 
-The protein 3D structure filename in PDB format without the .pdb extension is a mandatory argument. 
+The protein 3D structure filename in PDB format without the .pdb extension is a mandatory argument.   
 You may also give the name of the protein chain you want to analyse ('A' by default).
 
 By default, NOPMA will compute a smoothed contact propensity map using windows of size 5x5 (padding = 2).
