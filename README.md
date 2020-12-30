@@ -14,12 +14,8 @@ BIO.PDB and NUMPY Python modules should be installed to be able to use HOPMA.
 
 Clone the HOPMA repository.  
 Install dependencies :  
-for BioPython:  
-			pip install Bio  
-for R:  
-			brew install r	  
-		OR		 
-			brew install --cask r  
+for BioPython: pip install Bio  
+for R: brew install r OR brew install --cask r  
 Define and export the environment variable *HOPMA_PATH=/path-to-HOPMA-directory/*.  
 Test the program on the example PDB file 1dap.pdb, by typing "python3 $HOPMA_PATH/hopma.py 1dap -c B".  
 The outputs should be identical to those stored in the *example* directory.  
