@@ -12,7 +12,7 @@ To use the tool, simply type:
 ./hopma.sif 1dap B
 ```
 where *1dap* is the input PDB filename without the extension and *B* is the name of the chain you want to analyze.  
-You can find the corresponding PDB file *1dap.pdb* in the *example* directory of this repo.
+You can find the corresponding PDB file *1dap.pdb* in the *example* directory of this repository.
 
 ### 1. Download
 
