@@ -6,7 +6,7 @@ HOPMA is intended to help to define elastic network representations of protein s
 ## Installation
 
 ### Ready-to-use singularity image:
-The fastest way to install HOPMA is to download its Singularity image **hopma.sif**.  
+The fastest way to install HOPMA is to download its Singularity image [hopma.sif](https://files.inria.fr/NanoDFiles/Website/Software/NOLB/hopma.sif).  
 To use the tool, simply type:
 ```
 ./hopma.sif 1dap B
