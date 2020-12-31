@@ -55,5 +55,5 @@ HOPMA's outputs are:
 The final result is the "combi" list. This file can be given to NOLB with the option *--excl*.  
 
 ## Main reference:  
-Laine E, Grudinin S. HOPMA: Boosting protein structures dynamical potential with colored contact maps.*submitted*
+Laine E, Grudinin S. HOPMA: Boosting protein structures dynamical potential with colored contact maps. *submitted*
 
