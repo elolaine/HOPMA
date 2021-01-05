@@ -6,6 +6,16 @@ import sys
 import subprocess
 from Bio.PDB.PDBIO import Select
 
+############# FIX 1
+
+copy=Bio.PDB.Atom.copy
+def myCopy(self):
+    shallow = copy.copy(self)
+    for child in self.child_dict.values():
+        shallow.disordered_add(child.copy())
+    return shallow
+Bio.PDB.Atom.DisorderedAtom.copy=myCopy
+
 def calc_residue_dist(residue_one, residue_two) :
     """Returns the C-alpha distance between two residues"""
     diff_vector  = residue_one["CA"].coord - residue_two["CA"].coord
