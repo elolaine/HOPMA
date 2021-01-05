@@ -33,9 +33,15 @@ To be able to use the tool, you need to install the BioPython and Numpy Python m
 - for R: brew install r OR brew install --cask r  
 
 Define and export the environment variable *HOPMA_PATH=/path-to-HOPMA-directory/*.  
-Test the program on the example PDB file 1dap.pdb, by typing "python3 $HOPMA_PATH/hopma.py 1dap -c B".  
+Test the program on the example PDB file 1dap.pdb, by typing:
+```
+python3 $HOPMA_PATH/hopma.py 1dap -c B
+```
 The outputs should be identical to those stored in the *example* directory.  
-A help can be accessed by typing "python $HOPMA_PATH/hopma.py --help".  
+A help can be accessed by typing:
+```
+python $HOPMA_PATH/hopma.py --help
+```
 
 ## Usage    
 
