@@ -61,5 +61,5 @@ HOPMA's outputs are:
 The final result is the "combi" list. This file can be given to NOLB with the option *--excl*.  
 
 ## Main reference:  
-Laine E, Grudinin S. (2021) HOPMA: Boosting Protein Functional Dynamics with Colored Contact Maps. The Journal of Physical Chemistry B.
+Laine E, Grudinin S. (2021) HOPMA: Boosting Protein Functional Dynamics with Colored Contact Maps. J Phys Chem B.
 
