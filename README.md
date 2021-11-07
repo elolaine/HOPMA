@@ -1,5 +1,9 @@
 # HOPMA
+
 **A tool to boost protein functonal dynamics with colored contact maps**
+
+<img src="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jpcbfk/2021/jpcbfk.2021.125.issue-10/acs.jpcb.0c11633/20210312/images/medium/jp0c11633_0007.gif">
+
 
 HOPMA is intended to help to define elastic network representations of protein structures. It takes as input a protein 3D structure and gives as output a set of protein region pairs that should not be connected by any link in the network. HOPMA exploits the protein inter-residue distance matrix. It transforms it into a smoothed binarized colored contact map and detects small contiguous patches in this map. These patches correspond to small contact areas between contiguous protein segments, and the rational is that they indicate contacts that lock the elastic network and hinder its motions. HOPMA's output can be directly given to NOLB: https://team.inria.fr/nano-d/software/nolb-normal-modes/.
 
