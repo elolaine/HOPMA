@@ -1,6 +1,6 @@
 # HOPMA
 
-**A tool to boost protein functonal dynamics with colored contact maps**
+**A tool to boost protein functional dynamics with colored contact maps**
 
 <img src="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jpcbfk/2021/jpcbfk.2021.125.issue-10/acs.jpcb.0c11633/20210312/images/medium/jp0c11633_0007.gif">
 
