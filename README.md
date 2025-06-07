@@ -1,4 +1,4 @@
-# HOPMA
+# HOPMA [![DOI](https://zenodo.org/badge/325645652.svg)](https://doi.org/10.5281/zenodo.15616795)
 
 **A tool to boost protein functional dynamics with colored contact maps**
 
